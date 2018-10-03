@@ -1,0 +1,9 @@
+{
+  "name": "d30360n",
+  "version": "0.1.0",
+  "repo": "hcnn/d30360n",
+  "description": "Date difference in years according to the 30/360 NASD daycount method",
+  "keywords": ["daycount", "date difference", "year fraction", "30/360 NASD"],
+  "license": "MIT",
+  "src": ["d30360n.c", "d30360n.h"]
+}
